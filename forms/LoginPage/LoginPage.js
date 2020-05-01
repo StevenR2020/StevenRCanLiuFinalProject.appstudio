@@ -34,12 +34,23 @@ btnSignUp.onclick=function(){
 }
 
 LoginPage.onshow=function(){
-  imgHeader.src="https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/CreightonLogo.jpg"
+  imgHeader.src="https://ormond.creighton.edu/courses/375/Groups/Group-A2/Creighton_Bluejays_logo.svg.png"
+     //time for the header
+  var timeApp=(new Date())
+  timeApp=String(timeApp)
+  timeApp=timeApp.substring(0,10)
+  lblTime.value=timeApp
+  
+  
+  
+  
   query2 = "SELECT NetId, pass FROM user"
   request2 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=sar74677&pass=Aaron2020)&database=375groupa2&query=" + query2);
     if (request2.status == 200){
         result2 = JSON.parse(request2.responseText)
        } else 
          alert("Your Login Credentials Were Invalid")
-  }
+         
+         
+}
 
