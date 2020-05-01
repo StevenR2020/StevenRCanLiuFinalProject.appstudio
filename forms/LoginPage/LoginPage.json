@@ -70,7 +70,7 @@
         "forms",
         "LoginPage",
         "Elements",
-        "Label1.json"
+        "lblNewHere.json"
       ]
     },
     {
@@ -79,7 +79,7 @@
         "forms",
         "LoginPage",
         "Elements",
-        "Label2.json"
+        "lblWelcome2.json"
       ]
     }
   ],
