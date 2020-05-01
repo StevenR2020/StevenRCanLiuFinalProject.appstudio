@@ -70,7 +70,7 @@
         "forms",
         "HomePage",
         "Elements",
-        "Label3.json"
+        "lblAlreadyMember.json"
       ]
     },
     {
@@ -79,7 +79,7 @@
         "forms",
         "HomePage",
         "Elements",
-        "Label4.json"
+        "lblNewUser.json"
       ]
     }
   ],
