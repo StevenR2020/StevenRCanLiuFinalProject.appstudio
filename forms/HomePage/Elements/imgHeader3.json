@@ -14,10 +14,10 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 169,
   "hidden": "",
   "id": "imgHeader3",
-  "left": 67,
+  "left": 118,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -46,8 +46,8 @@
   "right": "auto",
   "script": "",
   "shape": "",
-  "src": "nsb/images/192.png",
+  "src": "Images/Creighton_Bluejays_logo.svg.png",
   "style": "",
-  "top": 106,
-  "width": "auto"
+  "top": 20,
+  "width": 163
 }
