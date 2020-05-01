@@ -43,7 +43,16 @@
         "forms",
         "inptToDo",
         "Elements",
-        "Label5.json"
+        "lblStressFree.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "inptToDo",
+        "Elements",
+        "btnGoBack.json"
       ]
     }
   ],
