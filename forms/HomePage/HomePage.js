@@ -35,7 +35,7 @@ function callAPI(URL) {
 }
 */
 HomePage.onshow=function(){
-  imgHeader3.src="https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/CreightonLogo.jpg"
+  imgHeader3.src="https://ormond.creighton.edu/courses/375/Groups/Group-A2/Creighton_Bluejays_logo.svg.png"
   
 /*  
   lblHolidays.style.height = "100px"
@@ -57,3 +57,7 @@ btnLogin3.onclick=function(){
 btnSignup3.onclick=function(){
   ChangeForm(SignUp)
 }
+
+
+
+//https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/CreightonLogo.jpg
