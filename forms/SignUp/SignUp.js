@@ -8,7 +8,7 @@ var result = ""
 
 
 SignUp.onshow=function(){
-  Image2.src="https://ormond.creighton.edu/courses/375/Groups/Group-B2/images/CreightonLogo.jpg"
+  Image2.src="https://ormond.creighton.edu/courses/375/Groups/Group-A2/Creighton_Bluejays_logo.svg.png"
   
   //time for the header
   var timeApp=(new Date())
