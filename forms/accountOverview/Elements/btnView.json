@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnView",
-  "left": 69,
+  "left": 68,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 158,
+  "top": 216,
   "value": "View Current To-Dos",
   "width": "auto"
 }
