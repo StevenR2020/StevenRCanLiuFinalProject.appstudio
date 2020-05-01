@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnCreate",
-  "left": 79,
+  "left": 76,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 373,
+  "top": 160,
   "value": "Create New To-Do",
   "width": "auto"
 }
