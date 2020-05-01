@@ -14,7 +14,7 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 144,
+  "height": 123,
   "hidden": "",
   "id": "imgHeader",
   "left": 164,
@@ -49,5 +49,5 @@
   "src": "nsb/images/192.png",
   "style": "",
   "top": 21,
-  "width": 142
+  "width": 123
 }
